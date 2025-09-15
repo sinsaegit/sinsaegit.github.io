@@ -1,0 +1,42 @@
+# GitHub Pages Configuration
+theme: jekyll-theme-minimal
+title: Sindre Saeter - Portfolio
+description: A personal portfolio showcasing CV and fun web projects
+author: Sindre Saeter
+
+# Site settings
+url: "https://sinsaegit.github.io"
+baseurl: ""
+permalink: pretty
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - .jekyll-metadata
+
+# Include files that start with underscores
+include:
+  - _pages
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO settings
+google_analytics: # Add your Google Analytics ID here if you have one
+social:
+  name: Sindre Saeter
+  links:
+    - https://github.com/sinsaegit
