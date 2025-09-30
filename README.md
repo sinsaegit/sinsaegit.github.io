@@ -1,5 +1,4 @@
-# ENG: Interactive Résumé Website 💻✨
-# NOR: Interaktiv CV-side 😎🫂
+# Welcom to my resumeé 😎🫂
 
 🚀 Live at: [https://sinsaegit.github.io](https://sinsaegit.github.io)
 
